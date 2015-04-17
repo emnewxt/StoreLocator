@@ -1,0 +1,25 @@
+{
+  "name": "StoreLocator",
+  "version": "0.1.0",
+  "summary": "A short description of StoreLocator.",
+  "description": "                       An optional longer description of StoreLocator\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/StoreLocator",
+  "license": "MIT",
+  "authors": {
+    "emnewxt": "e.millet@newxt.fr"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/StoreLocator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "StoreLocator": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
