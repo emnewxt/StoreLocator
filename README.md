@@ -22,7 +22,7 @@ pod "StoreLocator"
 
 ## Author
 
-emnewxt, e.millet@newxt.fr
+emnewxt
 
 ## License
 
